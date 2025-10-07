@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OldComputerFan
+- 👋 Hi, I’m @SuttBex
 - 👀 I’m interested in old computers, trains, programming
 - 🌱 I’m currently learning C# and Japanese
 - 💞️ I’m looking to collaborate on Anything
